@@ -163,7 +163,7 @@ const statCardLocales = ({ name, apostrophe }) => {
       sk: "Účasti",
       tr: "Katkı Verildi",
       pl: "Udziały",
-      uz: "'Contribute'ga qatnashdi",
+      uz: "Hissa qoʻshgan",
     },
   };
 };
@@ -277,7 +277,7 @@ const wakatimeCardLocales = {
     sk: "Wakatime štatistika",
     tr: "Waketime İstatistikler",
     pl: "statystyki Wakatime",
-    uz: "Vaqt holati",
+    uz: "Wakatime statistikasi",
   },
   "wakatimecard.nocodingactivity": {
     ar: "لا يوجد نشاط برمجي لهذا الأسبوع",
